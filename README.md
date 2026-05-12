@@ -8,7 +8,6 @@ I have a PhD in Organismic and Evolutionary Biology from UMass Amherst, where my
 Beyond analyzing data, I enjoy building tools to share and explore information. In the past, that interest took the form of working with biological/taxonomical databases. More recently, it looks more like building vizualization tools for open-source data.  
  
 
----
 
 ## 🛠 Tools & Skills
 
@@ -19,7 +18,7 @@ Beyond analyzing data, I enjoy building tools to share and explore information. 
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=r&logoColor=white)
 
 
----
+
 
 ## 📄 Research & Publications
 
@@ -28,7 +27,7 @@ Beyond analyzing data, I enjoy building tools to share and explore information. 
 [Read paper →](https://doi.org/10.1093/database/bav118)
 
 
----
+
 
 ## 📬 Let's Connect
 
