@@ -1,13 +1,13 @@
 
 👋 Hey there, I'm Mayrolin. Welcome to my profile. 👋 
 
-I'm a data scientist & storyteller — I enjoy working with messy datasets to find clear insights that drive decisions.
+I'm a data scientist & storyteller. I enjoy working with data to find clear insights that drive decisions.
 
 I have a PhD in Organismic and Evolutionary Biology from UMass Amherst, where my research focused on species delimitation using molecular and ecological data. I have a strong background in bioinformatics and data analysis.
 
 Beyond analyzing data, I enjoy building tools to share and explore information. In the past, that interest took the form of working with biological/taxonomical databases. More recently, it looks more like building vizualization tools for open-source data.  
  
-
+<br>
 
 ## 🛠 Tools & Skills
 
@@ -17,7 +17,7 @@ Beyond analyzing data, I enjoy building tools to share and explore information. 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=r&logoColor=white)
 
-
+<br>
 
 
 ## 📄 Research & Publications
@@ -27,7 +27,7 @@ Beyond analyzing data, I enjoy building tools to share and explore information. 
 [Read paper →](https://doi.org/10.1093/database/bav118)
 
 
-
+<br>
 
 ## 📬 Let's Connect
 
